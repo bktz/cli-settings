@@ -3,36 +3,36 @@ filetype off
 
 " Vundle
 set rtp+=~/.vim/bundle/Vundle.vim
-call vundle#begin()
-Plugin 'gmarik/Vundle.vim'
+"call vundle#begin()
+"Plugin 'gmarik/Vundle.vim'
 
-Plugin 'powerline/fonts'
+"Plugin 'powerline/fonts'
 "Plugin 'Valloric/YouCompleteMe'
-Plugin 'airblade/vim-gitgutter'
-Plugin 'vim-airline/vim-airline'
-Plugin 'vim-airline/vim-airline-themes'
-Plugin 'dhruvasagar/vim-table-mode'
-Plugin 'easymotion/vim-easymotion'
-Plugin 'flazz/vim-colorschemes'
-Plugin 'hallison/vim-markdown'
-Plugin 'junegunn/vim-easy-align'
-Plugin 'kien/ctrlp.vim'
-Plugin 'kien/rainbow_parentheses.vim'
-Plugin 'mattn/emmet-vim'
-Plugin 'mustache/vim-mustache-handlebars'
-Plugin 'nathanaelkane/vim-indent-guides'
-Plugin 'nelstrom/vim-markdown-folding'
-Plugin 'osyo-manga/vim-over'
-Plugin 'pangloss/vim-javascript'
-Plugin 'rust-lang/rust.vim'
-Plugin 'scrooloose/nerdcommenter'
-Plugin 'scrooloose/syntastic'
-Plugin 'thinca/vim-qfreplace'
-Plugin 'tpope/vim-fugitive'
-Plugin 'vim-scripts/kwbdi.vim'
-Plugin 'wellle/targets.vim'
+"Plugin 'airblade/vim-gitgutter'
+"Plugin 'vim-airline/vim-airline'
+"Plugin 'vim-airline/vim-airline-themes'
+"Plugin 'dhruvasagar/vim-table-mode'
+"Plugin 'easymotion/vim-easymotion'
+"Plugin 'flazz/vim-colorschemes'
+"Plugin 'hallison/vim-markdown'
+"Plugin 'junegunn/vim-easy-align'
+"Plugin 'kien/ctrlp.vim'
+"Plugin 'kien/rainbow_parentheses.vim'
+"Plugin 'mattn/emmet-vim'
+"Plugin 'mustache/vim-mustache-handlebars'
+"Plugin 'nathanaelkane/vim-indent-guides'
+"Plugin 'nelstrom/vim-markdown-folding'
+"Plugin 'osyo-manga/vim-over'
+"Plugin 'pangloss/vim-javascript'
+"Plugin 'rust-lang/rust.vim'
+"Plugin 'scrooloose/nerdcommenter'
+"Plugin 'scrooloose/syntastic'
+"Plugin 'thinca/vim-qfreplace'
+"Plugin 'tpope/vim-fugitive'
+"Plugin 'vim-scripts/kwbdi.vim'
+"Plugin 'wellle/targets.vim'
 
-call vundle#end()
+"call vundle#end()
 
 "-----------------------------------------------------------------------------
 " General

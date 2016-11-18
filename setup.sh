@@ -2,5 +2,8 @@
 
 echo ">>> Start CLI Settings Setup"
 
+echo "Running Vim Setup"
 ./vim.sh
-./powerline-shell.sh
+
+echo "Running zsh Setup"
+cp .zshrc ~/.zshrc
