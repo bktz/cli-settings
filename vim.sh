@@ -6,8 +6,8 @@ echo ">>> Setting up Vim"
 mkdir -p ~/.vim/backup
 mkdir -p ~/.vim/swap
 
-# Install Vundle
-git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
+# Install Vundle (optional)
+#git clone https://github.com/gmarik/vundle.git ~/.vim/bundle/vundle
 
 # Grab .vimrc
 cp .vimrc ~/.vimrc
